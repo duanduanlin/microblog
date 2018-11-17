@@ -52,3 +52,14 @@
 	-->add login route in aPP/views.py
 	-->use openid and add openids
 
+  4.database
+  	-->extends SQLAlchemy
+	-->updata config.py to use SQLAchemy
+	-->update app/__init__.py
+	-->add app/models.py
+	-->add db_create.py
+	-->add db_migrate.py
+	-->add db_upgrade.py
+	-->add downgrade.py
+
+
