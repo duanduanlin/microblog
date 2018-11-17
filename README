@@ -44,3 +44,11 @@
   2.microblog home page
   	-->add app/templates/index.html
 	-->add base model -->app/templates/base.html
+
+  3.table and login page
+  	-->add config.py to use flask-WTF and update __init_.py to config it
+	-->add first table forms.py
+	-->add templates/login.html
+	-->add login route in aPP/views.py
+	-->use openid and add openids
+
